@@ -18,6 +18,8 @@ Maven House is redefining virtual experiences by providing a platform for artist
 
 - Inbuilt chat and voice call option
 
+## Demo URL : https://mavenhouse.io
+
 ## Overview
 
 Maven House providing the paltform for creators to create their online events using polygon NFT's and Unlock Protocol.
@@ -45,3 +47,5 @@ Also, Attendees can watch the event teaser, which is uploaded on Filecoin/IPFS u
 - Polygon NFT's - Event Ticketing
 
 - Filecoin/IPFS playback tool with Livepeer’s Player - Teaser video storage and playback
+
+- Push Challenge - For pushing up the notifications to users before going live on livestream .
