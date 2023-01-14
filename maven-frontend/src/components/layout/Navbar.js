@@ -21,8 +21,9 @@ const Navbar = () => {
 
     useEffect(() => {
         (async () => {
-            let publicAddress = (await web3.eth.getAccounts())[0];
             if (user) {
+                let publicAddress = (await web3.eth.getAccounts())[0];
+
                 if (publicAddress) {
                     dispatch(setWalletId(publicAddress));
                 }
